@@ -7,3 +7,4 @@
 
 ---
 
+Este projeto básico visa construir uma página de acompanhamento de filmes e séries assistidas. A aplicação back-end utiliza o banco de dados MySQL e a aplicação front-end utiliza a linguagem Javascript.
